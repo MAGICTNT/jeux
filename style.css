@@ -1,0 +1,8 @@
+#pierre, #feuille, #ciseau{
+    display: none;
+}
+
+button, .logo{
+    width: 33%;
+    height: 33%;
+}
