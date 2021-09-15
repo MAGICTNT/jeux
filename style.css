@@ -1,3 +1,7 @@
+body{
+    background-color: #555454;
+}
+
 #pierre, #feuille, #ciseau{
     display: none;
 }
